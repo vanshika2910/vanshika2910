@@ -5,7 +5,7 @@
 ## 💫 About Me:
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height =250 width="400" align="right"/>
 <br><br>
-🔭 I’m currently pursuing my Bachelor in Computer Science & Engineering <br>
+🔭 I'm a sophomore student pursuing a Bachelor's degree in Computer Science Engineering. <br>
 💬 Tech-savvy wizard of code, transforming complex problems into elegant solutions with a touch of digital magic.<br>
 💡 Always experimenting with the latest frameworks and libraries.<br>
 🤝 Open to collaborations and always eager to learn.<br>
