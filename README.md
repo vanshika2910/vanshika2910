@@ -33,7 +33,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=vanshika-bhargava&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vanshika2910&theme=dark&hide_border=false)<br/>
 
 
 ### ✍️ Random Dev Quote
