@@ -2,6 +2,9 @@
 **vanshika2910/vanshika2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # Hi 👋, I'm Vanshika
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=30FF03&background=FF1A8F00&center=true&vCenter=true&width=435&lines=A+Full+Stack+Web+Developer;An+Open+Source+Enthusiast;AI%2FML+Enthusiast)](https://git.io/typing-svg)
+
 ## 💫 About Me:
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height =250 width="400" align="right"/>
 <br><br>
