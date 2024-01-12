@@ -4,8 +4,8 @@
 # Hi 👋, I'm Vanshika
  
 ## 💫 About Me:
-<img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" height =300 width="400" align="right"/>
-<br><br>
+<!--<img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" height =300 width="400" align="right"/>
+<br><br>-->
 🔭 I'm a sophomore student pursuing a Bachelor's degree in Computer Science Engineering. <br>
 💬 Tech-savvy wizard of code, transforming complex problems into elegant solutions with a touch of digital magic.<br>
 💡 Always experimenting with the latest frameworks and libraries.<br>
